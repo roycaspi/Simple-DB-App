@@ -1,0 +1,18 @@
+runtime: python39
+
+handlers:
+  - url: /set
+    script: auto
+  - url: /get
+    script: auto
+  - url: /unset
+    script: auto
+  - url: /numequalto
+    script: auto
+  - url: /undo
+    script: auto
+  - url: /redo
+    script: auto
+  - url: /end
+    script: auto
+
